@@ -174,7 +174,7 @@ footer{
         height: auto;
     }
 }
-@media (max-width:580px) {
+@media (max-width:1024px) {
     #banner{
         width: 100%;
         height: auto;
